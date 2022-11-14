@@ -55,7 +55,7 @@ mongodb+srv://MRUSERNAME:MRPASSWORD@cluster0.dciqs.mongodb.net/myFirstDatabase?r
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Regarduser/rename-pro)
+[![Deploy](https://www.netlifycdn.com/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Regarduser/rename-pro)
 
 
 
